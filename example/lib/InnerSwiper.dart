@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:flutter_swiper_flat/flutter_swiper_flat.dart';
 
 void main() => runApp(new MyApp());
 

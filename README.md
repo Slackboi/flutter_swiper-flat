@@ -1,29 +1,29 @@
 ![Logo](banner.jpg)
 
 <p align="center">
-    <a href="https://travis-ci.org/best-flutter/flutter_swiper">
-        <img src="https://travis-ci.org/best-flutter/flutter_swiper.svg?branch=master" alt="Build Status" />
+    <a href="https://travis-ci.org/best-flutter/flutter_swiper_flat">
+        <img src="https://travis-ci.org/best-flutter/flutter_swiper_flat.svg?branch=master" alt="Build Status" />
     </a>
-    <a href="https://coveralls.io/github/best-flutter/flutter_swiper?branch=master">
-        <img src="https://coveralls.io/repos/github/best-flutter/flutter_swiper/badge.svg?branch=master" alt="Coverage Status" />
+    <a href="https://coveralls.io/github/best-flutter/flutter_swiper_flat?branch=master">
+        <img src="https://coveralls.io/repos/github/best-flutter/flutter_swiper_flat/badge.svg?branch=master" alt="Coverage Status" />
     </a>
-    <a href="https://github.com/jzoom/flutter_swiper/pulls">
+    <a href="https://github.com/jzoom/flutter_swiper_flat/pulls">
         <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome" />
     </a>
-    <a href="https://pub.dartlang.org/packages/flutter_swiper">
-        <img src="https://img.shields.io/pub/v/flutter_swiper.svg" alt="pub package" />
+    <a href="https://pub.dartlang.org/packages/flutter_swiper_flat">
+        <img src="https://img.shields.io/pub/v/flutter_swiper_flat.svg" alt="pub package" />
     </a>
     <a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=a71a2504cda4cc9ace3320f2dc588bdae928abc671e903463caeb71ec9302c2c"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="best-flutter" title="best-flutter"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/jzoom/flutter_swiper/blob/master/README-ZH.md">
+    <a href="https://github.com/jzoom/flutter_swiper_flat/blob/master/README-ZH.md">
         <b>中文说明</b>
     </a>
 </p>
 
 
 
-# flutter_swiper
+# flutter_swiper_flat
 
 The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
 
@@ -55,15 +55,15 @@ We are using this project [transformer_page_view](https://github.com/best-flutte
 
 # Showcases
 
-![Horizontal](https://github.com/jzoom/flutter_swiper/raw/master/example/res/1.gif)
+![Horizontal](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/1.gif)
 
-![Vertical](https://github.com/jzoom/flutter_swiper/raw/master/example/res/2.gif)
+![Vertical](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/2.gif)
 
-![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/3.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/3.gif)
 
-![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/4.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/4.gif)
 
-![Phone](https://github.com/jzoom/flutter_swiper/raw/master/example/res/5.gif)
+![Phone](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/5.gif)
 
 ![Example](https://github.com/jzoom/images/raw/master/swiper-example.gif)
 
@@ -71,11 +71,11 @@ We are using this project [transformer_page_view](https://github.com/best-flutte
 
 ## Roadmap
 
->see:[ROADMAP.md](https://github.com/jzoom/flutter_swiper/blob/master/ROADMAP.md)
+>see:[ROADMAP.md](https://github.com/jzoom/flutter_swiper_flat/blob/master/ROADMAP.md)
 
 ## Changelogs
 
->see:[CHANGELOG.md](https://github.com/jzoom/flutter_swiper/blob/master/CHANGELOG.md)
+>see:[CHANGELOG.md](https://github.com/jzoom/flutter_swiper_flat/blob/master/CHANGELOG.md)
 
 ## Getting Started
 
@@ -96,7 +96,7 @@ Add
 
 ```bash
 
-flutter_swiper : ^lastest_version
+flutter_swiper_flat : ^lastest_version
 
 ```
 to your pubspec.yaml ,and run 
@@ -120,7 +120,7 @@ Edit lib/main.dart like this:
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:flutter_swiper_flat/flutter_swiper_flat.dart';
 
 void main() => runApp(new MyApp());
 
@@ -404,7 +404,7 @@ new ConstrainedBox(
 
 You can find all custom options here:
 
->https://github.com/jzoom/flutter_swiper/blob/master/example/lib/src/ExampleCustom.dart
+>https://github.com/jzoom/flutter_swiper_flat/blob/master/example/lib/src/ExampleCustom.dart
 
 
 

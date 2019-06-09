@@ -13,7 +13,7 @@
       <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_swiper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_swiper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_swiper_flat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_swiper_flat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -149,7 +149,7 @@
       <list>
         <option value="$PROJECT_DIR$/../flutter/.pub-cache/hosted/pub.flutter-io.cn/infinity_page_view-0.0.2/lib/infinity_page_view.dart" />
         <option value="$PROJECT_DIR$/lib/src/swiper_indicator.dart" />
-        <option value="$PROJECT_DIR$/lib/flutter_swiper.dart" />
+        <option value="$PROJECT_DIR$/lib/flutter_swiper_flat.dart" />
         <option value="$PROJECT_DIR$/lib/src/swiper_autoplay.dart" />
         <option value="$PROJECT_DIR$/example/lib/src/config.dart" />
         <option value="$PROJECT_DIR$/example/lib/src/forms/form_check_box.dart" />
@@ -186,7 +186,7 @@
         <option value="$PROJECT_DIR$/example/lib/src/ExampleCustom.dart" />
         <option value="$USER_HOME$/working/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_page_indicator-0.0.3/lib/flutter_page_indicator.dart" />
         <option value="$PROJECT_DIR$/lib/src/swiper.dart" />
-        <option value="$PROJECT_DIR$/test/flutter_swiper_test.dart" />
+        <option value="$PROJECT_DIR$/test/flutter_swiper_flat_test.dart" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/src/swiper_controller.dart" />
         <option value="$PROJECT_DIR$/README-ZH.md" />
@@ -218,12 +218,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="flutter_swiper" type="1abcf292:AndroidViewProjectNode" />
-              <item name="flutter_swiper" type="e9137016:NonAndroidModuleNode" />
+              <item name="flutter_swiper_flat" type="1abcf292:AndroidViewProjectNode" />
+              <item name="flutter_swiper_flat" type="e9137016:NonAndroidModuleNode" />
             </path>
             <path>
-              <item name="flutter_swiper" type="1abcf292:AndroidViewProjectNode" />
-              <item name="flutter_swiper" type="e9137016:NonAndroidModuleNode" />
+              <item name="flutter_swiper_flat" type="1abcf292:AndroidViewProjectNode" />
+              <item name="flutter_swiper_flat" type="e9137016:NonAndroidModuleNode" />
               <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
             </path>
           </expand>
@@ -234,8 +234,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="flutter_swiper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_swiper" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_swiper_flat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_swiper_flat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,8 +307,8 @@
     <configuration name="swiper_tranform_depeth.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/example/lib/swiper_tranform_depeth.dart" />
     </configuration>
-    <configuration name="flutter_swiper_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test">
-      <option name="testFile" value="$PROJECT_DIR$/test/flutter_swiper_test.dart" />
+    <configuration name="flutter_swiper_flat_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test">
+      <option name="testFile" value="$PROJECT_DIR$/test/flutter_swiper_flat_test.dart" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -354,7 +354,7 @@
       <item itemvalue="Flutter.swiper_tranform_depeth.dart" />
       <item itemvalue="Flutter.main.dart" />
       <item itemvalue="Flutter.InnerSwiper.dart" />
-      <item itemvalue="Flutter Test.flutter_swiper_test.dart" />
+      <item itemvalue="Flutter Test.flutter_swiper_flat_test.dart" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -371,35 +371,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 15h 16m 14s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 15h 16m 14s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 15h 16m 53s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 15h 16m 53s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 52m 10s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 52m 10s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 52m 31s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 52m 31s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 52m 41s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 52m 41s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 54m 05s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 54m 05s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 54m 16s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 54m 16s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.09 at 16h 54m 27s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.09 at 16h 54m 27s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.06.20 at 08h 52m 07s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.06.20 at 08h 52m 07s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
-    <history-entry file="flutter_swiper_test_dart - 2018.08.28 at 23h 10m 55s.xml">
-      <configuration name="flutter_swiper_test.dart" configurationId="FlutterTestConfigType" />
+    <history-entry file="flutter_swiper_flat_test_dart - 2018.08.28 at 23h 10m 55s.xml">
+      <configuration name="flutter_swiper_flat_test.dart" configurationId="FlutterTestConfigType" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="3">
@@ -575,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/flutter_swiper.dart">
+    <entry file="file://$PROJECT_DIR$/lib/flutter_swiper_flat.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -646,7 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/flutter_swiper_test.dart">
+    <entry file="file://$PROJECT_DIR$/test/flutter_swiper_flat_test.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
@@ -783,7 +783,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>flutter_swiper</last-edited>
+          <last-edited>flutter_swiper_flat</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

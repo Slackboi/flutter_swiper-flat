@@ -1,28 +1,28 @@
 ![Logo](banner.jpg)
 
 <p align="center">
-    <a href="https://travis-ci.org/best-flutter/flutter_swiper">
-        <img src="https://travis-ci.org/best-flutter/flutter_swiper.svg?branch=master" alt="Build Status" />
+    <a href="https://travis-ci.org/best-flutter/flutter_swiper_flat">
+        <img src="https://travis-ci.org/best-flutter/flutter_swiper_flat.svg?branch=master" alt="Build Status" />
     </a>
-    <a href="https://coveralls.io/github/best-flutter/flutter_swiper?branch=master">
-        <img src="https://coveralls.io/repos/github/best-flutter/flutter_swiper/badge.svg?branch=master" alt="Coverage Status" />
+    <a href="https://coveralls.io/github/best-flutter/flutter_swiper_flat?branch=master">
+        <img src="https://coveralls.io/repos/github/best-flutter/flutter_swiper_flat/badge.svg?branch=master" alt="Coverage Status" />
     </a>
-    <a href="https://github.com/jzoom/flutter_swiper/pulls">
+    <a href="https://github.com/jzoom/flutter_swiper_flat/pulls">
         <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome" />
     </a>
-    <a href="https://pub.flutter-io.cn/packages/flutter_swiper">
-        <img src="https://img.shields.io/pub/v/flutter_swiper.svg" alt="pub package" />
+    <a href="https://pub.flutter-io.cn/packages/flutter_swiper_flat">
+        <img src="https://img.shields.io/pub/v/flutter_swiper_flat.svg" alt="pub package" />
     </a>
     <a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=a71a2504cda4cc9ace3320f2dc588bdae928abc671e903463caeb71ec9302c2c"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="best-flutter" title="best-flutter"></a>
 </p>
 <p align="center">
-    <a href="https://github.com/jzoom/flutter_swiper">
+    <a href="https://github.com/jzoom/flutter_swiper_flat">
         <b>英文说明</b>
     </a>
 </p>
 
 
-# flutter_swiper
+# flutter_swiper_flat
 
 flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双端适配.
 
@@ -54,15 +54,15 @@ flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双
 
 # 截图
 
-![Horizontal](https://github.com/jzoom/flutter_swiper/raw/master/example/res/1.gif)
+![Horizontal](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/1.gif)
 
-![Vertical](https://github.com/jzoom/flutter_swiper/raw/master/example/res/2.gif)
+![Vertical](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/2.gif)
 
-![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/3.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/3.gif)
 
-![Custom Pagination](https://github.com/jzoom/flutter_swiper/raw/master/example/res/4.gif)
+![Custom Pagination](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/4.gif)
 
-![Phone](https://github.com/jzoom/flutter_swiper/raw/master/example/res/5.gif)
+![Phone](https://github.com/jzoom/flutter_swiper_flat/raw/master/example/res/5.gif)
 
 ![Example](https://github.com/jzoom/images/raw/master/swiper-example.gif)
 
@@ -89,7 +89,7 @@ flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双
 
 ## 更新日志
 
->参考:[CHANGELOG.md](https://github.com/jzoom/flutter_swiper/blob/master/CHANGELOG-ZH.md)
+>参考:[CHANGELOG.md](https://github.com/jzoom/flutter_swiper_flat/blob/master/CHANGELOG-ZH.md)
 
 ## 目录
 
@@ -110,7 +110,7 @@ flutter最强大的siwiper, 多种布局方式，无限轮播，Android和IOS双
 
 ```bash
 
-flutter_swiper : ^lastest_version
+flutter_swiper_flat : ^lastest_version
 
 ```
 到项目根目录下的 pubspec.yaml ,并且根目录运行命令行 
@@ -134,7 +134,7 @@ flutter create myapp
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:flutter_swiper_flat/flutter_swiper_flat.dart';
 
 void main() => runApp(new MyApp());
 
@@ -419,4 +419,4 @@ new ConstrainedBox(
 
 这里可以找到所有的定制选项
 
->https://github.com/jzoom/flutter_swiper/blob/master/example/lib/src/ExampleCustom.dart
+>https://github.com/jzoom/flutter_swiper_flat/blob/master/example/lib/src/ExampleCustom.dart

@@ -93,7 +93,7 @@
             </list>
           </value>
         </entry>
-        <entry key="flutter_swiper">
+        <entry key="flutter_swiper_flat">
           <value>
             <list>
               <option value="$PROJECT_DIR$/../lib" />
